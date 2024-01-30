@@ -9,14 +9,12 @@
             <li>curl --location 'localhost:8080/SpringMVCWithBoot/aliens'</li>
         </ul>
     </li>
-
     <li>
         Get alien by id
         <ul>
             <li>curl --location 'localhost:8080/SpringMVCWithBoot/alien/102'</li>
         </ul>
     </li>
-
     <li>
         Add alien
         <ul>
