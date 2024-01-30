@@ -1,6 +1,5 @@
 # SpringMVCWithBoot
-    Spring MVC project with using Spring Boot and JPA
-
+    Spring MVC project with using Spring Boot and JPA where AlienController is @RestController and responsible for following REST APIs
 # cURLs
 <ol>
     <li>
