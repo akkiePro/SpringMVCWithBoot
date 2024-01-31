@@ -31,6 +31,7 @@ public class AlienController {
 
     @GetMapping("aliens")
     public List<Alien> getAliens() {
+//        int num = 9 / 0;  // uncomment this line for @AfterThrowing(LoggingAspect.java:29)
         List<Alien> aliens = dao.showAliens();
         return aliens;
     }
